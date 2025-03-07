@@ -32,10 +32,14 @@ resultBtn.addEventListener('click', e => {
 
   setTimeout(function () {
     result.style.display = 'block';
+  }, 400);
+
+  setTimeout(function () {
     resultBtn.classList.toggle('disabled');
     resultBtn.disabled = true;
     resultBtn.textContent = 'Твой сыщик';
   }, 600);
+
 });
 
 document.addEventListener('click', e => {
