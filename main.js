@@ -6,7 +6,7 @@ async function getData() {
   const resultArr = await response.json();
   const randomItem = resultArr[getArrayRandomIndex(resultArr)];
   result.innerHTML = `
-  <a href="#" id="closeBtn" class="close-btn"></a>
+  <div id="closeBtn" class="close-btn"></div>
 <div class="scene scene--card">
   <div id="card" class="card">
     <div class="card__face card__face--front"><img src="${randomItem.img}" class="investigator"></div>
@@ -32,14 +32,17 @@ resultBtn.addEventListener('click', e => {
 
   result.style.display = 'block';
 
-  resultBtn.classList.toggle('disabled');
-  resultBtn.disabled = true;
-  resultBtn.textContent = 'Твой сыщик';
+  setTimeout(function () {
+    resultBtn.classList.toggle('disabled');
+    resultBtn.disabled = true;
+    resultBtn.textContent = 'Твой сыщик';
+  }, 200);
 });
 
 document.addEventListener('click', e => {
   if (e.target.id === 'closeBtn') {
     result.style.display = 'none';
+    result.innerHTML = ``;
     resultBtn.classList.toggle('disabled');
     resultBtn.textContent = 'Выбрать сыщика';
     resultBtn.disabled = false;
