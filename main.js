@@ -36,7 +36,7 @@ resultBtn.addEventListener('click', e => {
     resultBtn.classList.toggle('disabled');
     resultBtn.disabled = true;
     resultBtn.textContent = 'Твой сыщик';
-  }, 200);
+  }, 400);
 });
 
 document.addEventListener('click', e => {
