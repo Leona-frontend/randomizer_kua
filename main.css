@@ -199,7 +199,7 @@ button.disabled {
 
 .scene {
   width: 100%;
-  height: 280px;
+  height: 200px;
   /* height - настройка скорости выпадения карты  */
   perspective: 1800px;
 }
