@@ -9,8 +9,8 @@ async function getData() {
   <div id="closeBtn" class="close-btn"></div>
 <div class="scene scene--card">
   <div id="card" class="card">
-    <div class="card__face card__face--front"><img src="${randomItem.img}" class="investigator opacity"></div>
-    <div class="card__face card__face--back"><img src="${randomItem.img_back}" class="investigator opacity"></div>
+    <div class="card__face card__face--front"><img src="${randomItem.img}" class="investigator"></div>
+    <div class="card__face card__face--back"><img src="${randomItem.img_back}" class="investigator"></div>
     </div>
 </div>
   `;
