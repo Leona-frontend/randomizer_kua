@@ -1,0 +1,317 @@
+[
+  {
+    "title": "Агнес Бейкер",
+    "img": "./images/agnes.jpg",
+    "img_back": "./images/agnes-back.jpg"
+  },
+  {
+    "title": "Акачи Оньеле",
+    "img": "./images/akachi.jpg",
+    "img_back": "./images/akachi-back.jpg"
+  },
+  {
+    "title": "Алессандра Дзордзи",
+    "img": "./images/alessandra.jpg",
+    "img_back": "./images/alessandra-back.jpg"
+  },
+  {
+    "title": "Аманда Шарп",
+    "img": "./images/amanda.jpg",
+    "img_back": "./images/amanda-back.jpg"
+  },
+  {
+    "title": "Амина Зидан",
+    "img": "./images/amina.jpg",
+    "img_back": "./images/amina-back.jpg"
+  },
+  {
+    "title": "Боб Дженкинс",
+    "img": "./images/bob.jpg",
+    "img_back": "./images/bob-back.jpg"
+  },
+  {
+    "title": "Венди Адамс",
+    "img": "./images/wendy.jpg",
+    "img_back": "./images/wendy-back.jpg"
+  },
+  {
+    "title": "Винсент Ли",
+    "img": "./images/vincent.jpg",
+    "img_back": "./images/vincent-back.jpg"
+  },
+  {
+    "title": "Даниэла Райес",
+    "img": "./images/daniela.jpg",
+    "img_back": "./images/daniela-back.jpg"
+  },
+  {
+    "title": "Даррелл Симмонс",
+    "img": "./images/darrell.jpg",
+    "img_back": "./images/darrell-back.jpg"
+  },
+  {
+    "title": "Дейзи Уокер",
+    "img": "./images/daisy.jpg",
+    "img_back": "./images/daisy-back.jpg"
+  },
+  {
+    "title": "Декстер Дрейк",
+    "img": "./images/dexter.jpg",
+    "img_back": "./images/dexter-back.jpg"
+  },
+  {
+    "title": "Дженни Барнс",
+    "img": "./images/jenny.jpg",
+    "img_back": "./images/jenny-back.jpg"
+  },
+  {
+    "title": "Джим Кальвер",
+    "img": "./images/jim.jpg",
+    "img_back": "./images/jim-back.jpg"
+  },
+  {
+    "title": "Джо Даймонд",
+    "img": "./images/joe.jpg",
+    "img_back": "./images/joe-back.jpg"
+  },
+  {
+    "title": "Диана Стэнли",
+    "img": "./images/diana.jpg",
+    "img_back": "./images/diana-back.jpg"
+  },
+  {
+    "title": "Жаклин Файн",
+    "img": "./images/jacqueline.jpg",
+    "img_back": "./images/jacqueline-back.jpg"
+  },
+  {
+    "title": "Зефина Руссо",
+    "img": "./images/sefina.jpg",
+    "img_back": "./images/sefina-back.jpg"
+  },
+  {
+    "title": "Зои Самарас",
+    "img": "./images/zoey.jpg",
+    "img_back": "./images/zoey-back.jpg"
+  },
+  {
+    "title": "Каймани Джонс",
+    "img": "./images/kymani.jpg",
+    "img_back": "./images/kymani-back.jpg"
+  },
+  {
+    "title": "Кальвин Райт",
+    "img": "./images/calvin.jpg",
+    "img_back": "./images/calvin-back.jpg"
+  },
+  {
+    "title": "Карсон Синклер",
+    "img": "./images/carson.jpg",
+    "img_back": "./images/carson-back.jpg"
+  },
+  {
+    "title": "Кейт Уинтроп",
+    "img": "./images/kate.jpg",
+    "img_back": "./images/kate-back.jpg"
+  },
+  {
+    "title": "Кохаку Наруками",
+    "img": "./images/kohaku.jpg",
+    "img_back": "./images/kohaku-back.jpg"
+  },
+  {
+    "title": "Кэролин Ферн",
+    "img": "./images/carolyn.jpg",
+    "img_back": "./images/carolyn-back.jpg"
+  },
+  {
+    "title": "Лео Андерсон",
+    "img": "./images/leo.jpg",
+    "img_back": "./images/leo-back.jpg"
+  },
+  {
+    "title": "Лили Чен",
+    "img": "./images/lily.jpg",
+    "img_back": "./images/lily-back.jpg"
+  },
+  {
+    "title": "Лола Хейз",
+    "img": "./images/lola.jpg",
+    "img_back": "./images/lola-back.jpg"
+  },
+  {
+    "title": "Люк Робинсон",
+    "img": "./images/luke.jpg",
+    "img_back": "./images/luke-back.jpg"
+  },
+  {
+    "title": "Мари Ламбо",
+    "img": "./images/marie.jpg",
+    "img_back": "./images/marie-back.jpg"
+  },
+  {
+    "title": "Марк Хэрриган",
+    "img": "./images/mark.jpg",
+    "img_back": "./images/mark-back.jpg"
+  },
+  {
+    "title": "Минь Тхи Фан",
+    "img": "./images/minh.jpg",
+    "img_back": "./images/minh-back.jpg"
+  },
+  {
+    "title": "Монтерей Джек",
+    "img": "./images/monterey.jpg",
+    "img_back": "./images/monterey-back.jpg"
+  },
+  {
+    "title": "Мэнди Томпсон",
+    "img": "./images/mandy.jpg",
+    "img_back": "./images/mandy-back.jpg"
+  },
+  {
+    "title": "Натаниэль Чо",
+    "img": "./images/nathaniel.jpg",
+    "img_back": "./images/nathaniel-back.jpg"
+  },
+  {
+    "title": "Норман Уизерс",
+    "img": "./images/norman.jpg",
+    "img_back": "./images/norman-back.jpg"
+  },
+  {
+    "title": "Отец Матео",
+    "img": "./images/mateo.jpg",
+    "img_back": "./images/mateo-back.jpg"
+  },
+  {
+    "title": "Патрис Хатауэй",
+    "img": "./images/patrice.jpg",
+    "img_back": "./images/patrice-back.jpg"
+  },
+  {
+    "title": "Пит Мусорщик",
+    "img": "./images/pete.jpg",
+    "img_back": "./images/pete-back.jpg"
+  },
+  {
+    "title": "Престон Фэрмонт",
+    "img": "./images/preston.jpg",
+    "img_back": "./images/preston-back.jpg"
+  },
+  {
+    "title": "Рекс Мерфи",
+    "img": "./images/rex.jpg",
+    "img_back": "./images/rex-back.jpg"
+  },
+  {
+    "title": "Рита Янг",
+    "img": "./images/rita.jpg",
+    "img_back": "./images/rita-back.jpg"
+  },
+  {
+    "title": "Роланд Бэнкс",
+    "img": "./images/roland.jpg",
+    "img_back": "./images/roland-back.jpg"
+  },
+  {
+    "title": "Сайлас Марш",
+    "img": "./images/silas.jpg",
+    "img_back": "./images/silas-back.jpg"
+  },
+  {
+    "title": "Сестра Мэри",
+    "img": "./images/mary.jpg",
+    "img_back": "./images/mary-back.jpg"
+  },
+  {
+    "title": "Скат О'Тул",
+    "img": "./images/skids.jpg",
+    "img_back": "./images/skids-back.jpg"
+  },
+  {
+    "title": "Стелла Кларк",
+    "img": "./images/stella.jpg",
+    "img_back": "./images/stella-back.jpg"
+  },
+  {
+    "title": "Томми Малдун",
+    "img": "./images/tommy.jpg",
+    "img_back": "./images/tommy-back.jpg"
+  },
+  {
+    "title": "Тони Морган",
+    "img": "./images/tony.jpg",
+    "img_back": "./images/tony-back.jpg"
+  },
+  {
+    "title": "Триш Скарборо",
+    "img": "./images/trish.jpg",
+    "img_back": "./images/trish-back.jpg"
+  },
+  {
+    "title": "Уилсон Ричардс",
+    "img": "./images/wilson.jpg",
+    "img_back": "./images/wilson-back.jpg"
+  },
+  {
+    "title": "Уильям Йорик",
+    "img": "./images/william.jpg",
+    "img_back": "./images/william-back.jpg"
+  },
+  {
+    "title": "Уинифред Хаббамок",
+    "img": "./images/winifred.jpg",
+    "img_back": "./images/winifred-back.jpg"
+  },
+  {
+    "title": "Урсула Даунс",
+    "img": "./images/ursula.jpg",
+    "img_back": "./images/ursula-back.jpg"
+  },
+  {
+    "title": "Финн Эдвардс",
+    "img": "./images/finn.jpg",
+    "img_back": "./images/finn-back.jpg"
+  },
+  {
+    "title": "Харви Уолтерс",
+    "img": "./images/harvey.jpg",
+    "img_back": "./images/harvey-back.jpg"
+  },
+  {
+    "title": "Хэнк Сэмсон",
+    "img": "./images/hank.jpg",
+    "img_back": "./images/hank-back.jpg"
+  },
+  {
+    "title": "Чарли Кейн",
+    "img": "./images/charlie.jpg",
+    "img_back": "./images/charlie-back.jpg"
+  },
+  {
+    "title": "Параллельный Роланд Бэнкс",
+    "img": "./images/roland-alt.jpg",
+    "img_back": "./images/roland-alt-back.jpg"
+  },
+  {
+    "title": "Параллельная Дейзи Уокер",
+    "img": "./images/daisy-alt.jpg",
+    "img_back": "./images/daisy-alt-back.jpg"
+  },
+  {
+    "title": "Параллельная Агнес Бейкер",
+    "img": "./images/agnes-alt.jpg",
+    "img_back": "./images/agnes-alt-back.jpg"
+  },
+  {
+    "title": "Параллельный Скат О'Тул",
+    "img": "./images/skids-alt.jpg",
+    "img_back": "./images/skids-alt-back.jpg"
+  },
+  {
+    "title": "Изабель Ла Фратта",
+    "img": "./images/isabel.jpg",
+    "img_back": "./images/isabel-back.jpg"
+  }
+]
