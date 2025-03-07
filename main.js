@@ -30,13 +30,12 @@ resultBtn.addEventListener('click', e => {
 
   getData();
 
-  result.style.display = 'block';
-
   setTimeout(function () {
+    result.style.display = 'block';
     resultBtn.classList.toggle('disabled');
     resultBtn.disabled = true;
     resultBtn.textContent = 'Твой сыщик';
-  }, 400);
+  }, 600);
 });
 
 document.addEventListener('click', e => {
