@@ -86,6 +86,8 @@ body {
 
 * {
   box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  /* убираем подсветку кнопки при нажатии в мобильном браузере Хром */
 }
 
 .investigator {
