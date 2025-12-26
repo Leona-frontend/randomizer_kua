@@ -313,40 +313,5 @@
     "title": "Изабель Ла Фратта",
     "img": "./images/isabel.jpg",
     "img_back": "./images/isabel-back.jpg"
-  },
-  {
-    "title": "Агата Крейн",
-    "img": "./images/agatha-seeker.jpg",
-    "img_back": "./images/agatha-seeker-back.jpg"
-  },
-  {
-    "title": "Агата Крейн",
-    "img": "./images/agatha-mistyc.jpg",
-    "img_back": "./images/agatha-mistyc-back.jpg"
-  },
-  {
-    "title": "Люциус Галлоуэй",
-    "img": "./images/lucius.jpg",
-    "img_back": "./images/lucius-back.jpg"
-  },
-  {
-    "title": "Марион Таварес",
-    "img": "./images/marion.jpg",
-    "img_back": "./images/marion-back.jpg"
-  },
-  {
-    "title": "Глория Голдберг",
-    "img": "./images/gloria.jpg",
-    "img_back": "./images/gloria-back.jpg"
-  },
-  {
-    "title": "Майкл Макглен",
-    "img": "./images/michael.jpg",
-    "img_back": "./images/michael-back.jpg"
-  },
-  {
-    "title": "Джордж Барнаби",
-    "img": "./images/george.jpg",
-    "img_back": "./images/george-back.jpg"
   }
 ]
